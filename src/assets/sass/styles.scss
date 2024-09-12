@@ -1,0 +1,6 @@
+@use 'normalize';
+
+@mixin size($box-size) {
+  width: $box-size;
+  height: $box-size;
+}
