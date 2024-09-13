@@ -1,29 +1,17 @@
-# sass-grid-layout
+# Grid layout
 
-This template should help get you started developing with Vue 3 in Vite.
+## [CSS Grid Starter Layouts](https://css-tricks.com/snippets/css/css-grid-starter-layouts/).
 
-## Recommended IDE Setup
+- [ ] Holy grail
+  - [ ] [One Layout Multiple Ways](https://css-tricks.com/css-grid-one-layout-multiple-ways/)
+  - [ ] [The Holy Grail Layout with css grid](https://css-tricks.com/the-holy-grail-layout-with-css-grid/)
+- [ ] 2-Columns with Header and Footer
+- [ ] Evenly Distibuted, Fit as needed
+- [ ] Article with breakout
+- [ ] Basic calendar
+- [ ] Monopoly board
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## [CSS Grid Tricks](https://css-tricks.com/building-a-hexagonal-grid-using-css-grid/)
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+- [ ] [Hexagonal grid](https://css-tricks.com/building-a-hexagonal-grid-using-css-grid/)
+- [ ] [Newspaper layout](https://css-tricks.com/techniques-for-a-newspaper-layout-with-css-grid-and-border-lines-between-elements/)
