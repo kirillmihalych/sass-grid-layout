@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="273.98709mm"
+   height="169.33327mm"
+   viewBox="0 0 273.98709 169.33327"
+   version="1.1"
+   id="svg21358"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Flag Brugge.svg">
+  <defs
+     id="defs21352">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect21199-5"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect21227-0"
+       is_visible="true" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="600.74783"
+     inkscape:cy="1218.3257"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata21355">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-7.5992754,-164.22488)">
+    <g
+       transform="matrix(0.2822222,0,0,0.2822222,96.77839,-3969.5377)"
+       id="g21933">
+      <rect
+         y="14647.191"
+         x="-315.98901"
+         height="599.99982"
+         width="970.82043"
+         id="rect9459-9-7-6-4-9-8-5-0"
+         style="fill:#1f9f5c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999976" />
+      <g
+         style="stroke:#1f9f5c;stroke-width:4.27566624;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="matrix(2.6311688,0,0,2.6311688,2241.2379,-24258.583)"
+         id="g21232-8">
+        <path
+           id="croix_ancrée-5-6-2"
+           style="display:inline;fill:#f5fbf8;fill-opacity:1;stroke:none;stroke-width:4.27566624;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -811.93813,14925.042 v 24.73 c 0,32.975 -22.56308,39.015 -35.97012,28.203 0.93917,35.213 60.49519,35.639 60.49519,-3.27 0,38.909 59.55601,38.483 60.49518,3.27 -13.40703,10.812 -35.97011,4.772 -35.97011,-28.203 v -24.73 0 h 24.72956 c 32.97565,0 39.01515,22.563 28.20406,35.97 35.21234,-0.939 35.63875,-60.495 -3.27001,-60.495 38.90876,0 38.48235,-59.556 3.27001,-60.495 10.81109,13.407 4.77159,35.97 -28.20406,35.97 h -24.72956 v -24.73 c 0,-32.975 22.56308,-39.015 35.97012,-28.204 -0.93918,-35.212 -60.49519,-35.639 -60.49519,3.27 0,-38.909 -59.55602,-38.482 -60.49519,-3.27 13.40704,-10.811 35.97012,-4.771 35.97012,28.204 v 24.73 h -24.72956 c -32.97565,0 -39.01515,-22.563 -28.20406,-35.97 -35.21234,0.939 -35.63875,60.495 3.27002,60.495 -38.90877,0 -38.48236,59.556 -3.27002,60.495 -10.81109,-13.407 -4.77159,-35.97 28.20406,-35.97 z"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cscccsccscccscscccscscccscc" />
+      </g>
+    </g>
+  </g>
+</svg>

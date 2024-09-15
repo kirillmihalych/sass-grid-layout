@@ -3,7 +3,6 @@
     <section class="grid-container">
       <div v-for="(cell, index) in inventory_25" :key="index" class="grid-item"></div>
     </section>
-
     <RouterView />
   </div>
 </template>
@@ -79,8 +78,6 @@ $bg-red: red;
 }
 
 .grid-item {
-  // grid-column: span 1;
-  // grid-row: span 1;
   border: 2px solid purple;
   height: 100px;
   width: 100px;

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="273.98709mm"
+   height="169.33333mm"
+   viewBox="0 0 970.8204 599.99998"
+   id="svg10518"
+   version="1.1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Flag_Mahakam.svg">
+  <defs
+     id="defs10520">
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.12374369"
+     inkscape:cx="-2407.2141"
+     inkscape:cy="728.8899"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata10523">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(320.75532,-634.17433)">
+    <g
+       transform="translate(3778.1397,-3945.5078)"
+       id="g11272">
+      <rect
+         style="fill:#ead452;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect9459-9-2"
+         width="970.82043"
+         height="600"
+         x="-4098.895"
+         y="4579.6821" />
+      <path
+         style="opacity:1;fill:#222b2c;stroke:none;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         d="m -3419.563,4726.8851 27.8162,27.8162 54.7608,109.827 -109.8272,-54.7605 -26.8395,-26.8387 -107.3648,111.243 175.3734,169.4267 c 4.2829,4.1367 4.5501,10.9065 0.6072,15.368 -7.5917,8.5921 -15.7197,16.7204 -24.3111,24.3116 -4.462,3.9428 -11.2312,3.6759 -15.3682,-0.6072 l -168.849,-174.7759 -168.6836,174.7687 c -4.1363,4.2857 -10.9081,4.5547 -15.3719,0.6111 -8.5891,-7.5902 -16.7153,-15.7149 -24.3042,-24.304 -3.9439,-4.4628 -3.6754,-11.2361 0.6105,-15.3723 l 175.3488,-169.242 -116.1405,-120.2222 c -20.9398,23.5466 -38.6494,50.044 -52.4938,78.7998 l -60.5235,-52.6599 c 38.3805,-70.5358 96.4441,-128.5495 166.9101,-166.9793 l 52.6325,60.5151 c -28.693,13.8169 -55.1174,31.4982 -78.6011,52.3963 l 120.8006,116.7004 111.8014,-107.9049 -63.2341,-63.2348 55.0664,-55.0665 64.2109,64.2119 7.9966,-7.7193 25.7014,25.6882 -7.7243,8.0035 z"
+         id="path6-7" />
+    </g>
+  </g>
+</svg>

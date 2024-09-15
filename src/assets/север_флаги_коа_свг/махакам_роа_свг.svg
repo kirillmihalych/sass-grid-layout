@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="96.918579mm"
+   height="116.45942mm"
+   viewBox="0 0 343.41229 412.65148"
+   id="svg10518"
+   version="1.1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="COA_Mahakam.svg">
+  <defs
+     id="defs10520">
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="53.504689"
+     inkscape:cy="247.7315"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata10523">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(1271.7061,-783.17937)">
+    <g
+       id="g10503"
+       transform="matrix(1.2902699,0,0,1.2902699,3220.4962,-6866.5978)">
+      <path
+         id="path9113-1-5"
+         d="m -3348.9436,5930.3245 c -3.3682,0.058 -6.6575,0.8335 -9.5828,2.2325 -37.0811,17.7317 -74.1634,35.4662 -111.2438,53.1977 -6.8441,3.2756 -10.8629,9.6271 -10.2716,16.271 6.8406,76.3951 13.6741,152.8066 20.5077,229.2026 0.8048,8.9255 9.7019,15.9062 20.2705,15.909 60.4906,-1e-4 120.9808,0 181.4714,0 10.5765,0.01 19.4651,-6.9782 20.2703,-15.909 6.8374,-76.3962 13.6826,-152.7968 20.5197,-229.1925 0.6,-6.6504 -3.4291,-13.0114 -10.2835,-16.2912 -37.0854,-17.7321 -74.1723,-35.4565 -111.2554,-53.1876 -2.967,-1.4188 -6.3094,-2.1931 -9.7257,-2.2325 -0.2251,0 -0.4523,-0.01 -0.6768,0 z"
+         style="fill:#ead452;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         style="opacity:1;fill:#222b2c;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         d="m -3272.3468,6026.6179 10.9301,10.9301 21.5177,43.1554 -43.1555,-21.5176 -10.5463,-10.546 -42.1879,43.7118 68.9112,66.5745 c 1.6829,1.6255 1.7879,4.2856 0.2386,6.0387 -2.9831,3.3762 -6.1769,6.5701 -9.5528,9.553 -1.7533,1.5493 -4.4132,1.4444 -6.0388,-0.2386 l -66.3475,-68.6764 -66.2825,68.6736 c -1.6253,1.684 -4.2862,1.7897 -6.0402,0.2401 -3.375,-2.9825 -6.5681,-6.175 -9.5501,-9.55 -1.5497,-1.7536 -1.4442,-4.4151 0.2399,-6.0404 l 68.9015,-66.5019 -45.6362,-47.2401 c -8.2281,9.2524 -15.1869,19.6643 -20.6269,30.9636 l -23.7821,-20.6922 c 15.0812,-27.7163 37.8967,-50.5122 65.5856,-65.6128 l 20.6814,23.7788 c -11.2746,5.4292 -21.6578,12.3769 -30.8855,20.5886 l 47.4674,45.8562 43.9312,-42.4001 -24.8472,-24.8475 21.6378,-21.6378 25.231,25.2314 3.1422,-3.0332 10.0991,10.0939 -3.0352,3.1449 z"
+         id="path6-53-2" />
+    </g>
+  </g>
+</svg>
