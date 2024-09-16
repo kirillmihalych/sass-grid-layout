@@ -1,7 +1,7 @@
 <template>
   <div class="container">
-    <section class="grid-container">
-      <div v-for="(cell, index) in inventory_25" :key="index" class="grid-item"></div>
+    <section>
+      <NavbarComponent />
     </section>
     <RouterView />
   </div>
@@ -9,6 +9,7 @@
 
 <script setup>
 import { RouterView } from 'vue-router'
+import NavbarComponent from './components/NavbarComponent.vue'
 
 const items = [
   {
@@ -23,18 +24,18 @@ const items = [
     id: 3,
     title: 'Vanya',
   },
-  {
-    id: 4,
-    title: 'Bulba',
-  },
-  {
-    id: 5,
-    title: 'Gena',
-  },
-  {
-    id: 6,
-    title: 'Pena',
-  },
+  // {
+  //   id: 4,
+  //   title: 'Bulba',
+  // },
+  // {
+  //   id: 5,
+  //   title: 'Gena',
+  // },
+  // {
+  //   id: 6,
+  //   title: 'Pena',
+  // },
 ]
 
 const inventory_25 = [
@@ -46,8 +47,8 @@ const inventory_25 = [
 console.log(inventory_25)
 </script>
 
-<style lang="scss">
-$max-inline-width: 60rem;
+<style scoped lang="scss">
+$max-inline-width: 50rem;
 $bg-red: red;
 
 .text-center {

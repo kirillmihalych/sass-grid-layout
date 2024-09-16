@@ -12,7 +12,7 @@
 - [x] Basic calendar / fluid
 - [x] Auto-fill vs Auto-fit / responsive [Auto-Sizing Columns](https://css-tricks.com/auto-sizing-columns-css-grid-auto-fill-vs-auto-fit/)
 - [x] Monopoly board / explicitly placed
-- [ ] Overlapping
+- [x] Overlapping
 
 ## [CSS Grid Tricks](https://css-tricks.com/building-a-hexagonal-grid-using-css-grid/)
 
