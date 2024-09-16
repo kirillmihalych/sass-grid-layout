@@ -2,8 +2,8 @@
   <div class="container">
     <div class="header">header</div>
     <div class="left-sidebar">left-sidebar</div>
-    <div class="right-sidebar">right-sidebar</div>
     <div class="article">article</div>
+    <div class="right-sidebar">right-sidebar</div>
     <div class="footer">footer</div>
   </div>
 </template>
@@ -23,12 +23,12 @@
 }
 
 .header {
-  grid-column: 1 / 4;
+  grid-column: 1 / -1;
   // grid-area: header;
 }
 
 .footer {
-  grid-column: 1 / 4;
+  grid-column: 1 / -1;
   // grid-area: footer;
 }
 
