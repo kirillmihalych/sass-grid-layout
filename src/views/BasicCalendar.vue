@@ -60,6 +60,7 @@
   grid-template-columns: repeat(7, minmax(50px, 100px));
   grid-auto-rows: minmax(50px, 100px);
   gap: 1rem;
+  justify-content: center;
 }
 
 .day-grid > li,

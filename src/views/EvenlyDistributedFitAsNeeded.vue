@@ -21,6 +21,7 @@ const inventory_25 = [
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
   grid-auto-rows: minmax(150px, auto);
   gap: 1rem;
+  justify-content: center;
 }
 
 .grid-item-even {

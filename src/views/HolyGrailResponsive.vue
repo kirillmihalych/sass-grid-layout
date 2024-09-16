@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="holy-grail-layout">
     <div class="header">header</div>
     <div class="left-sidebar">left-sidebar</div>
     <div class="article">article</div>
@@ -11,7 +11,7 @@
 <script setup lang="ts"></script>
 
 <style scoped lang="scss">
-.container {
+.holy-grail-layout {
   margin-block-start: 5rem;
   display: grid;
   grid-template-columns: 150px auto 150px;
@@ -20,6 +20,7 @@
   //   'left-s article article article right-s'
   //   'footer footer footer footer footer';
   gap: 1rem;
+  justify-content: center;
 }
 
 .header {
@@ -58,7 +59,7 @@
 //   grid-area: right-s;
 // }
 
-.container > div {
+.holy-grail-layout > div {
   border: 1px dotted purple;
   height: 10rem;
   display: flex;

@@ -23,6 +23,7 @@
     [main-start] 1fr [main-end]
     minmax(100px, 1fr) [full-end];
   grid-auto-rows: 200px;
+  justify-content: center;
 }
 
 .grid-container-break > * {

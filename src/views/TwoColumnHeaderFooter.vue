@@ -1,5 +1,5 @@
 <template>
-  <div class="grid-container">
+  <div class="two-column-header-footer-layout">
     <header class="header">header</header>
     <main class="main">main</main>
     <aside class="aside">aside</aside>
@@ -21,9 +21,10 @@
   border: 2px dotted purple;
 }
 
-.grid-container {
+.two-column-header-footer-layout {
   margin-block-start: 5rem;
   display: grid;
+  justify-content: center;
   grid-template-columns: 3fr 1fr;
   grid-template-rows: 10vw 30vw 10vw;
   gap: 1rem;
