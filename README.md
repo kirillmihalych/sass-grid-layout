@@ -2,11 +2,11 @@
 
 ## [CSS Grid Starter Layouts](https://css-tricks.com/snippets/css/css-grid-starter-layouts/).
 
-- [ ] Holy grail
+- [x] Holy grail
   - [ ] [One Layout Multiple Ways](https://css-tricks.com/css-grid-one-layout-multiple-ways/)
   - [ ] [The Holy Grail Layout with css grid](https://css-tricks.com/the-holy-grail-layout-with-css-grid/)
-- [ ] 2-Columns with Header and Footer
-- [ ] Evenly Distibuted, Fit as needed
+- [x] 2-Columns with Header and Footer
+- [x] Evenly Distibuted, Fit as needed
 - [ ] Article with breakout
 - [ ] Basic calendar
 - [ ] Monopoly board
