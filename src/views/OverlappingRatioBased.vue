@@ -14,6 +14,7 @@
   grid-template-columns: 4fr 1fr 2fr 1fr 2fr;
   max-width: 600px;
   padding: 1rem;
+  margin-inline: auto;
 }
 
 .yellow,

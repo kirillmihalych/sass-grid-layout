@@ -1,0 +1,95 @@
+@import url('https://rsms.me/inter/inter.css');
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+html {
+  --poster-size: 95vmin;
+  --ratio: 415 / 512;
+
+  --poster-width: calc(var(--poster-size) * var(--ratio));
+  --poster-height: var(--poster-size);
+
+  --poster-text-color--light: hsl(300, 7%, 95%);
+  --poster-text-color--mid: hsl(0, 1%, 73%);
+  --poster-text-color--dark: hsl(226, 7%, 52%);
+
+  --poster-background-color--light: hsl(248, 9%, 18%);
+  --poster--background-color--dark: hsl(206, 18%, 8%);
+
+  --app-background-color: hsl(206, 18%, 7%);
+
+  font-family: 'Inter', sans-serif;
+  font-size: calc(var(--poster-width) / 100);
+}
+
+body {
+  //   display: grid;
+  //   place-items: center;
+  min-height: 100vh;
+  color: var(--poster-text-color--light);
+  background: var(--app-background-color);
+}
+
+ul {
+  list-style: none;
+}
+.poster {
+  display: grid;
+  width: var(--poster-width);
+  height: var(--poster-size);
+  padding: 9rem;
+  background-image: radial-gradient(
+    circle at top center,
+    var(--poster-background-color--light),
+    var(--poster--background-color--dark)
+  );
+  grid-template-columns: repeat(20, 1fr);
+  &__content {
+    font-size: 0.8rem;
+    font-weight: 200;
+    &--upper {
+      grid-column: 9 / span 3;
+    }
+    &--lower {
+      grid-column: 12 / span 3;
+    }
+    &-block {
+      margin-bottom: 1em;
+    }
+  }
+  &__header {
+    font-size: 6rem;
+    display: grid;
+    letter-spacing: -0.08em;
+    text-transform: uppercase;
+    grid-column: 1 / span 20;
+    grid-template-columns: repeat(20, 1fr);
+    grid-auto-flow: column;
+  }
+  &__title {
+    --color: hsl(300, 7%, 95%);
+    --color--dark: #bbb9b9;
+    $positions: ((12, 8), (9, 9), (6, 9), (3, 9), (9, 9), (9, 2), (6, 11), (3, 11), (1, 11));
+    display: block;
+    @for $i from 1 through length($positions) {
+      $position: nth($positions, $i);
+      &:nth-of-type(#{$i}) {
+        grid-column: #{nth($position, 1)} / span #{nth($position, 2)};
+        grid-row: #{$i};
+      }
+    }
+  }
+  [role='presentation'] {
+    --color: var(--poster-text-color--mid);
+    --color--dark: var(--poster-text-color--dark);
+  }
+  .char {
+    color: var(--color);
+    &--dark {
+      color: var(--color--dark);
+    }
+  }
+}

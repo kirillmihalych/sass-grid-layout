@@ -25,6 +25,7 @@
   display: grid;
   grid-template-columns: repeat(3, auto);
   gap: var(--gap);
+  margin-inline: auto;
 }
 
 .grid-images > img {
